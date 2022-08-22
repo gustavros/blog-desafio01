@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Lexend Deca", sans-serif;
+
+  @apply bg-zinc-200;
+}
